@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MertBuke
-- 👀 I’m interested in Developer Challenge
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Javascript, Typescript, React etc.
 - 📫 How to reach me mert.buke9194@gmail.com
 
 <!---
